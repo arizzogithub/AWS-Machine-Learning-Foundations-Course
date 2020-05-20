@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 def run_tests(shirt_one, shirt_two, total_cost, total_discount):
  
