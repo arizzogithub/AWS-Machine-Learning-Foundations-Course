@@ -5,4 +5,4 @@ Study machine learning techniques and algorithms, programming best practices, py
 
 ## AWS Machine Learning Foundations Course
 
-![AWS certificate](https://github.com/arizzogithub/AWS-Machine-Learning-Foundations-Course/blob/master/AWS%20Certificate.png)
+![AWS certificate](https://github.com/arizzogithub/AWS-Machine-Learning-Foundations-Course/blob/master/AWS%20Certificate.png)\
